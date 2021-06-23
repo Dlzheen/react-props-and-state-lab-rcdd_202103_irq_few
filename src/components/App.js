@@ -1,6 +1,6 @@
 import React from 'react';
-import Filters from './Filters';
-import PetBrowser from './PetBrowser';
+import Filters from './.js';
+import PetBrowser from './PetBrowser.js';
 class App extends React.Component {
       constructor() {
             super();
